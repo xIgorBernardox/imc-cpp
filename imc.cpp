@@ -5,8 +5,6 @@
 #include <vector>
 using namespace std;
 
-// Aluno: Igor Bernardo Brito Oliveira / Matrícula: 202303183704
-
 int main() {
     char gender;
     int user_choice;
